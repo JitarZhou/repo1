@@ -3,6 +3,6 @@ Hello Git
 Hello Git
 Hello Git
 Hello Git
-test ok file
+test ok file  master test
 
 add hot-fix
