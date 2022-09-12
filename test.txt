@@ -3,5 +3,5 @@ Hello Git
 Hello Git
 Hello Git
 Hello Git
-test ok file  master test
-add hot-fix   hot-fix  hot-fix
+test ok file  master test  master test
+add hot-fix   hot-fix
