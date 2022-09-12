@@ -5,4 +5,4 @@ Hello Git
 Hello Git
 test ok file
 
-add hot-fix
+add hot-fix   hot-fix
